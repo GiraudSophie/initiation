@@ -2,6 +2,7 @@
 	<head>
 		<title>Découverte Git</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="stylesheet" type="text/css" media="screen" href="style.css"/>
 	</head>
 	<body>
 		<h1>Git</h1>
